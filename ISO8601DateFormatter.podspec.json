@@ -20,7 +20,7 @@
     "osx": "10.7"
   },
   "source": {
-    "git": "git@github.com:novemberfiveco-engineering/iso-8601-date-formatter.git",
+    "git": "https://github.com/novemberfiveco-engineering/iso-8601-date-formatter.git",
     "tag": "0.9"
   },
   "source_files": "ISO8601DateFormatter.{h,m}",
